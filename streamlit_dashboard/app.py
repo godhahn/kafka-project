@@ -8,7 +8,7 @@ from kafka import KafkaProducer
 import plotly.express as px
 
 st.set_page_config(page_title="📈 HAHN Dashboard", layout="centered")
-st.title("📈 Real-Time HAHN Stock Dashboard")
+st.title("📈 Real-Time Stock (HAHN) Streaming Dashboard")
 
 # Kafka producer setup
 producer = KafkaProducer(

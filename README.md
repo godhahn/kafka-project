@@ -1,4 +1,4 @@
-# Real Time Stock Dashboard
+# Real Time Stock Streaming Dashboard
 
 ## Project Overview
 
