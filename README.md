@@ -13,6 +13,8 @@ Whether you're learning Kafka, Docker, or just want to simulate stock movements 
 - Includes manual **Buy** and **Sell** buttons for user interaction
 - Interactive Plotly chart visualizing price over time
 
+## Demo Video (youtube)
+
 <div align="center">
   <a href="https://www.youtube.com/watch?v=za2ShawmdGQ" target="_blank">
     <img src="https://img.youtube.com/vi/za2ShawmdGQ/0.jpg" width="480" alt="Demo Video">
