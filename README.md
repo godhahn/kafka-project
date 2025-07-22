@@ -1,4 +1,4 @@
-# Real Time Stock Streaming Dashboard
+# Real-Time Stock Streaming Dashboard
 
 ## Project Overview
 
@@ -16,8 +16,8 @@ Whether you're learning Kafka, Docker, or just want to simulate stock movements 
 ## Demo Video (youtube)
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=za2ShawmdGQ" target="_blank">
-    <img src="https://img.youtube.com/vi/za2ShawmdGQ/0.jpg" width="480" alt="Demo Video">
+  <a href="https://www.youtube.com/watch?v=hyfTFlSxYpQ" target="_blank">
+    <img src="https://img.youtube.com/vi/hyfTFlSxYpQ/0.jpg" width="480" alt="Spark Intro">
   </a>
 </div>
 
